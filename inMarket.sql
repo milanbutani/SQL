@@ -1,5 +1,5 @@
 /*Challenge Questions for this file can be found here: https://drive.google.com/drive/folders/17A77ijfmeDsxCN_9TdpdYBCYAaig8cQB.
-Open the word document titled "inMarket Data Challenge #2.docx*/
+Open the word document titled "inMarket Data Challenge #2.docx"*/
 
 SELECT device_uuid FROM table_2 WHERE home_state = 'FL';
 
